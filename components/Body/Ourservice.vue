@@ -1,9 +1,7 @@
 <template>
     <div class="mt-4 mb-20">
         <div class="basis-full">
-
-            
-
+      
             <div class="mt-10 sm:px-10">
                 <div class="mx-auto w-[90%]">
                 <p id="webdevelopment" class="text-center text-5xl font-bold mb-6">Web & App Development</p>
@@ -252,7 +250,7 @@
                     </div>
                 </div>
 
-                
+    
                 <div class="bg-green-950 mx-auto  mt-20 py-6 rounded-3xl ">
                     <p id="tradindstrategies" class="text-center text-5xl font-bold mb-6">Trading Strategies & Tools</p>
                     <p class="text-center">Success in trading requires strategy. We develop advanced trading strategies and custom indicators to give you a competitive edge.</p>
@@ -273,4 +271,92 @@
                                 <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
                                         fill="currentColor" class="size-4">
                                         <path fill-rule="evenodd"
-                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Algorithmic trading strategies</div>
+                            </div>
+
+                            <div class="flex space-x-3 ml-2">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Custom indicators for popular trading platforms (MetaTrader, TradingView,
+                                    etc.)</div>
+                            </div>
+
+                            <div class="flex space-x-3 ml-2">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Market analysis tools</div>
+                            </div>
+
+                            <div class="flex space-x-3 ml-2">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Risk management systems</div>
+                            </div>
+                        </div>
+
+                        <div class="dark:bg-green-700 bg-white rounded-2xl py-2">
+                            <div class="ml-5">
+                                <svg class="w-[40px] h-[40px] text-gray-800 dark:text-white" aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"
+                                    viewBox="0 0 24 24">
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                        stroke-width="2" d="M8.5 11.5 11 14l4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+                                </svg>
+                            </div>
+                            <p class="text-3xl font-bold mt-3 ml-2">Key highlights</p>
+                            <div class="flex space-x-3 ml-2 mt-4">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Backtested and optimized strategies</div>
+                            </div>
+                            <div class="flex space-x-3 ml-2">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Designed for beginner and professional traders alike</div>
+                            </div>
+                            <div class="flex space-x-3 ml-2">
+                                <div class="py-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                        fill="currentColor" class="size-4">
+                                        <path fill-rule="evenodd"
+                                            d="M12.416 3.376a.75.75 0 0 1 .208 1.04l-5 7.5a.75.75 0 0 1-1.154.114l-3-3a.75.75 0 0 1 1.06-1.06l2.353 2.353 4.493-6.74a.75.75 0 0 1 1.04-.207Z"
+                                            clip-rule="evenodd" />
+                                    </svg>
+                                </div>
+                                <div class="">Enhanced decision-making with data-driven insights</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
