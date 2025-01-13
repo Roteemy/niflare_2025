@@ -20,7 +20,7 @@
         
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
             
-            <div class="bg-white rounded-lg py-8 px-6 text-center sm:text-left">
+            <div class="bg-white dark:bg-gray-900 rounded-lg py-8 px-6 text-center sm:text-left">
                 <div class="mb-4 flex justify-center sm:justify-start">
                     <svg
                         class="w-10 h-10 text-gray-800 dark:text-white"
@@ -44,7 +44,7 @@
             </div>
 
     
-            <div class="bg-white rounded-lg py-8 px-6 text-center sm:text-left">
+            <div class="bg-white dark:bg-gray-900 rounded-lg py-8 px-6 text-center sm:text-left">
                 <div class="mb-4 flex justify-center sm:justify-start">
                     <svg
                         class="w-10 h-10 text-gray-800 dark:text-white"
@@ -64,7 +64,7 @@
             </div>
 
             <!-- Card 3 -->
-            <div class="bg-white rounded-lg py-8 px-6 text-center sm:text-left">
+            <div class="bg-white dark:bg-gray-900 rounded-lg py-8 px-6 text-center sm:text-left">
                 <div class="mb-4 flex justify-center sm:justify-start">
                     <svg
                         class="w-10 h-10 text-gray-800 dark:text-white"
