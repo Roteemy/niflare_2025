@@ -1,13 +1,9 @@
 <template>
     <div class="mt-4 mb-20">
         <div class="basis-full">
-            <!--<div class="flex justify-center sm:px-10">-->
-                
-            <!--    <div id="ourservice"-->
-            <!--        class="h-24 w-64 text-center rounded-full bg-gray-300 dark:bg-amber-800 flex items-center justify-center uppercase text-3xl font-bold">-->
-            <!--        Our Service</div>-->
-                    
-            <!--</div>-->
+
+            
+
             <div class="mt-10 sm:px-10">
                 <div class="mx-auto w-[90%]">
                 <p id="webdevelopment" class="text-center text-5xl font-bold mb-6">Web & App Development</p>
