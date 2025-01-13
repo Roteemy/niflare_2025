@@ -1,32 +1,21 @@
 <template>
     <div class="mt-4">
-      <div class="w-full">
-        <div class="flex justify-center">
-          <nuxtLink to="/Homepage">
-            <div
-              id="learnwithus"
-              class="h-16 w-48 sm:h-20 sm:w-56 md:h-24 md:w-64 text-center rounded-full bg-gray-300 flex items-center justify-center uppercase text-lg sm:text-xl md:text-3xl font-bold"
-            >
-              Learn With Us
-            </div>
-          </nuxtLink>
-        </div>
-        <div class="mt-10 bg-green-500 py-4 rounded-3xl px-4 sm:px-6 md:px-10">
+      <div class="w-full" id="learnwithus">
+       
+        <div class="mt-10 bg-amber-950 py-4 rounded-3xl px-4 sm:px-6 md:px-10">
           <p
             id="trainingprogram"
-            class="text-center text-2xl sm:text-3xl md:text-5xl font-bold mb-4 sm:mb-6">
+            class="text-center text-4xl md:text-5xl font-bold mb-4 sm:mb-6">
             Training Programs
           </p>
           <p class="text-center text-sm sm:text-base md:text-lg">
             Empower yourself with the knowledge to excel in technology and
             trading. Our
-          </p>
-          <p class="text-center mb-10 text-sm sm:text-base md:text-lg">
             training programs are designed for individuals of all skill levels.
           </p>
   
           <div
-            class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6 bg-green-400 py-4 px-4 rounded-2xl"
+            class=" space-y-4 sm:space-y-0 sm:space-x-6 bg-amber-800 py-4 px-4 rounded-2xl"
           >
             <div class="basis-full sm:basis-1/2">
               <div class="ml-2">
@@ -134,9 +123,7 @@
               </div>
             </div>
   
-            <div class="basis-full sm:basis-1/2">
-              <!-- Add the other half of content with similar responsive handling -->
-            </div>
+     
           </div>
         </div>
       </div>
